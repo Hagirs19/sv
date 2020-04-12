@@ -53,4 +53,6 @@ Team : R3XD
 
 Instagram : @Hagi.rs
 
+Version : 1.0.0
+
 ```
