@@ -1,45 +1,68 @@
-# Trojan On Termux
+#Trojan On Termux
+```
 
-'''
-Tujuan :
-Program Dibuat Untuk Mengambil Data Di penyimpanan internal korban
-'''
+Indonesia :
 
-'''
-Cara Kerja :
-Ketika Program yang dibuat tools ini dijalankan oleh korban
-Data - Data yang anda inginkan akan dikirim ke Email anda 
-berupa file zip
-'''
+Kode Ini Di Buat Untuk Menjahili Teman Kalian Yang Sedang Asik Mabar 🤣
 
-'''
-Peringatan :
-Ukuran file yang besar akan beresiko , resikonya data - data korban
-Tidak akan terkirim ke email anda karena terlalu besar size nya
-'''
+```
 
-'''
-Cara Pemakaian :
-Masukan alamat email anda beserta passwordnya (saya sarankan pakai email cadangan saja)
-lalu isi nama file untuk program tersebut selanjutnya isi nama data yang ingin anda ambil
-di hp korban dan suruh korban menjalankan program tersebut
-'''
+```
 
-# Cara Install Di termux
-$pkg upgrade&&pkg update
-$pkg install python
-$pkg install python3
-$pkg install zip
-$pip install marshal
-$pkg install git
-$git clone https://github.com/Hagirs19/sv
-cd sv 
-python3 trojan.py
+Inggris :
 
-# Cara Install Di Kali - Linux
-coming soon
+This Code Is Made To Judge Your Friends Who Are Playing The Game 🤣
 
+```
 
+# Installation ( Penginstalan )
 
+```
 
+Termux :
 
+$ pkg install git
+
+$ pkg install python2
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ git clone https://github.com/Fukur0-3XP/SpamSms
+
+$ cd SpamSms
+
+$ python2 Spam.py
+
+Kali Linux :
+
+$ sudo apt-get install git
+
+$ sudo apt install python-pip
+
+$ pip2 install mechanize
+
+$ pip2 install requests
+
+$ git clone https://github.com/Fukur0-3XP/SpamSms
+
+$ cd SpamSms
+
+$ python2 Spam.py
+
+```
+
+# Info
+
+```
+
+Creator : ./FUKUR0-3XP
+
+Team : Black Coders Anonymous Satanic Exploiter Team
+
+Instagram : ricko.3xp_
+
+Email : 3xp.fukur0@gmail.com
+
+```
