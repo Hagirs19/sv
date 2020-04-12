@@ -1,9 +1,9 @@
-#Trojan On Termux
+# Trojan On Termux
 ```
 
-Indonesia :
+Tujuan :
 
-Kode Ini Di Buat Untuk Menjahili Teman Kalian Yang Sedang Asik Mabar 🤣
+Program Dibuat Untuk Mengambil Data Di penyimpanan internal korban
 
 ```
 
