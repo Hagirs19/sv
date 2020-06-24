@@ -14,7 +14,7 @@ class create_file():
 			self.file.write(data)
 		if data:
 			self.file.write(data)
-		if update :
+		if update == True:
 			file = open(self.name_file,"w")
 			file.write(data)
 			
@@ -107,6 +107,12 @@ class create_file():
 		
 		
 		create_file(self.name_file,css=None, data="</form>", update=None)
+
+	def create_div(self,text=None, mode=None, name=None):
+		self.mode = mode
+
+		data_c = f"<div {self.mode}='{name}'>" + text + "</div>"
+		create_file(self.name_file,css=None, data=data_c, update=None)
 	
 	
 
@@ -146,8 +152,7 @@ class create_file():
 			data_s = format_data[self.format]['open'] + text + format_data[self.format]['close']
 			create_file(self.name_file,css=None, data=data_s, update=None)
 			
-	def end(self, view=None):
-			
+	def end(self, view=None, update=None):
 		if view == True:
 			data = "</body></html>"
 			create_file(self.name_file,css=None, data=data, update=None)
