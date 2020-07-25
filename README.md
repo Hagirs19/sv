@@ -1,4 +1,4 @@
-# Trojan On Termux
+# Terminal Trojan
 ```
 
 Tujuan :
